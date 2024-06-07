@@ -1,0 +1,153 @@
+body{
+    background-color: black;
+}
+.hero{
+    background-color: red;
+    color: cornflowerblue;
+    text-align: center;
+    display: flex;
+margin: 10px;
+padding: 10px 0px 10px 0px;
+flex-flow: row wrap;
+align-items:center;
+align-content: center;
+}
+
+h3:hover{
+    color: goldenrod;
+}
+h3::first-letter{
+    font-size: large;
+    color: red;
+}
+
+.s{
+    background-color: beige;
+    color: chartreuse;
+    height: 100px;
+    width:100px;
+    display:flex;
+    
+}
+.d{
+    background-color: beige;
+    color: chartreuse;
+    height: 100px;
+    width:100px;
+    display:flex;
+}
+.p{
+    background-color: beige;
+    color: chartreuse;
+    height: 100px;
+    width:100px;
+    display:flex;
+}
+.r{
+    background-color: beige;
+    color: chartreuse;
+    height: 100px;
+    width:100px;
+    display:flex;
+}
+.k{
+    background-color: beige;
+    color: chartreuse;
+    height: 100px;
+    width:100px;
+    display:flex;
+}
+.u{
+    background-color: beige;
+    color: chartreuse;
+    height: 100px;
+    width:100px;
+    display:flex;
+}
+.div1{
+    background-color: beige;
+    color: chartreuse;
+    height: 100px;
+    width:100px;
+    display:flex;
+}
+.div2{
+    background-color: beige;
+    color: chartreuse;
+    height: 100px;
+    width:100px;
+    display:flex;
+}
+    .div3{
+        background-color: beige;
+        color: chartreuse;
+        height: 100px;
+        width:100px;
+        display:flex;
+    }
+
+        .div4{
+            background-color: beige;
+            color: chartreuse;
+            height: 100px;
+            width:100px;
+            display:flex;
+            flex-shrink: 2;
+        }
+        .diva{
+            background-color: beige;
+            color: chartreuse;
+            height: 100px;
+            width:100px;
+            display:flex;
+        }
+        .divb{
+            background-color: beige;
+            color: chartreuse;
+            height: 100px;
+            width:100px;
+            display:flex;
+        }
+        .divc{
+            background-color: beige;
+            color: chartreuse;
+            height: 100px;
+            width:100px;
+            display:flex;
+        }
+        .divd{
+            background-color: beige;
+            color: chartreuse;
+            height: 100px;
+            width:100px;
+            display:flex;
+        }
+        .dive{
+            background-color: beige;
+            color: chartreuse;
+            height: 100px;
+            width:100px;
+            display:flex;
+        }
+        .hindhi{
+            background-color: darkgoldenrod;
+            color: rgb(190, 22, 22);
+            text-align: center;
+            display: flex;
+        margin: 10px;
+        padding: 10px 0px 10px 0px;
+        flex-flow: row wrap;
+        align-items:center;
+        align-content: center;
+        }
+        .english{
+            background-color: burlywood;
+            color: rgb(5, 227, 105);
+            text-align: center;
+            display: flex;
+        margin: 10px;
+        padding: 10px 0px 10px 0px;
+        flex-flow: row wrap;
+        align-items:center;
+        align-content: center;
+        }
